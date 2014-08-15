@@ -1,6 +1,10 @@
 # gulp-ember-handlebars [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
-> Ember Handlebars plugin for gulp 3
-[![NPM](https://nodei.co/npm/<package>.png)](https://nodei.co/npm/gulp-ember-handlebars/)
+> Ember Handlebars plugin for gulp 3.
+
+## Deprecation Notice
+
+This plugin is no longer maintained. You should consider replacing your usage with [gulp-handlebars](https://github.com/lazd/gulp-handlebars). Starting with gulp-handlebars 2.2.0,
+embers-handlebars is supported.
 
 ## Usage
 
